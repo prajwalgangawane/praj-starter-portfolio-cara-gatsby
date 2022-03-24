@@ -8,9 +8,9 @@ module.exports = {
     // You can also add new values here to query them like usual
     // See all options: https://github.com/LekoArts/gatsby-themes/blob/main/themes/gatsby-theme-cara/gatsby-config.js
     siteTitle: `Prajwal`,
-    siteTitleAlt: `Praj - Gatsby Starter Portfolio`,
-    siteHeadline: `Praj - Gatsby Theme from @lekoarts`,
-    siteUrl: `https://cara.lekoarts.de`,
+    siteTitleAlt: `Prajwal - Starter Portfolio`,
+    siteHeadline: `Prajwal Gangawane`,
+    siteUrl: `https://prajwal.gatsbyjs.io/`,
     siteDescription: `Playful and Colorful One-Page portfolio featuring Parallax effects and animations`,
     siteLanguage: `en`,
     siteImage: `/banner.jpg`,
